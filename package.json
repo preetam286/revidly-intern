@@ -1,8 +1,5 @@
 {
-  "homepage": "http://preetam286.github.io/revidly-intern"
-}
-
-{
+  "homepage": "http://preetam286.github.io/revidly-intern",
   "name": "revidly",
   "version": "0.1.0",
   "private": true,
