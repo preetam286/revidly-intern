@@ -9,3 +9,5 @@ I installed two modules via npm:
 2. Bootstrap for react
 
 *************************************************/
+
+Click this link to see: https://preetam286.github.io/revidly-intern/
