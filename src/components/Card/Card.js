@@ -24,11 +24,11 @@ function Content(){
                 <Card.Img variant="bottom" src={content} />
                 <Card.Footer>
                     <small className="d-flex">
-                        <a className=" mx-auto" href="#like"><i class="fa fa-thumbs-up fa-lg"></i></a>
-                        <a className=" mx-auto" href="#unlike"><i class="fa fa-thumbs-down fa-lg"></i></a>
-                        <a className=" mx-auto" href="#comment"><i class="fa fa-comment fa-lg"></i></a>
-                        <a className=" mx-auto" href="#seen"><i class="fa fa-eye fa-lg"></i></a>
-                        <a className=" mx-auto" href="#share"><i class="fa fa-share fa-lg"></i></a>
+                        <a className=" mx-auto" href="#like"><i className="fa fa-thumbs-up fa-lg"></i></a>
+                        <a className=" mx-auto" href="#unlike"><i className="fa fa-thumbs-down fa-lg"></i></a>
+                        <a className=" mx-auto" href="#comment"><i className="fa fa-comment fa-lg"></i></a>
+                        <a className=" mx-auto" href="#seen"><i className="fa fa-eye fa-lg"></i></a>
+                        <a className=" mx-auto" href="#share"><i className="fa fa-share fa-lg"></i></a>
                     </small>
                 </Card.Footer>
             </Card>
@@ -50,11 +50,11 @@ function Content(){
                 <Card.Img variant="bottom" src={content} />
                 <Card.Footer>
                     <small className="d-flex">
-                        <a className=" mx-auto" href="#like"><i class="fa fa-thumbs-up fa-lg"></i></a>
-                        <a className=" mx-auto" href="#unlike"><i class="fa fa-thumbs-down fa-lg"></i></a>
-                        <a className=" mx-auto" href="#comment"><i class="fa fa-comment fa-lg"></i></a>
-                        <a className=" mx-auto" href="#seen"><i class="fa fa-eye fa-lg"></i></a>
-                        <a className=" mx-auto" href="#share"><i class="fa fa-share fa-lg"></i></a>
+                        <a className=" mx-auto" href="#like"><i className="fa fa-thumbs-up fa-lg"></i></a>
+                        <a className=" mx-auto" href="#unlike"><i className="fa fa-thumbs-down fa-lg"></i></a>
+                        <a className=" mx-auto" href="#comment"><i className="fa fa-comment fa-lg"></i></a>
+                        <a className=" mx-auto" href="#seen"><i className="fa fa-eye fa-lg"></i></a>
+                        <a className=" mx-auto" href="#share"><i className="fa fa-share fa-lg"></i></a>
                     </small>
                 </Card.Footer>
             </Card>
@@ -76,11 +76,11 @@ function Content(){
                 <Card.Img variant="bottom" src={content} />
                 <Card.Footer>
                     <small className="d-flex">
-                        <a className=" mx-auto" href="#like"><i class="fa fa-thumbs-up fa-lg"></i></a>
-                        <a className=" mx-auto" href="#unlike"><i class="fa fa-thumbs-down fa-lg"></i></a>
-                        <a className=" mx-auto" href="#comment"><i class="fa fa-comment fa-lg"></i></a>
-                        <a className=" mx-auto" href="#seen"><i class="fa fa-eye fa-lg"></i></a>
-                        <a className=" mx-auto" href="#share"><i class="fa fa-share fa-lg"></i></a>
+                        <a className=" mx-auto" href="#like"><i className="fa fa-thumbs-up fa-lg"></i></a>
+                        <a className=" mx-auto" href="#unlike"><i className="fa fa-thumbs-down fa-lg"></i></a>
+                        <a className=" mx-auto" href="#comment"><i className="fa fa-comment fa-lg"></i></a>
+                        <a className=" mx-auto" href="#seen"><i className="fa fa-eye fa-lg"></i></a>
+                        <a className=" mx-auto" href="#share"><i className="fa fa-share fa-lg"></i></a>
                     </small>
                 </Card.Footer>
             </Card>
@@ -102,11 +102,11 @@ function Content(){
                 <Card.Img variant="bottom" src={content} />
                 <Card.Footer>
                     <small className="d-flex">
-                        <a className=" mx-auto" href="#like"><i class="fa fa-thumbs-up fa-lg"></i></a>
-                        <a className=" mx-auto" href="#unlike"><i class="fa fa-thumbs-down fa-lg"></i></a>
-                        <a className=" mx-auto" href="#comment"><i class="fa fa-comment fa-lg"></i></a>
-                        <a className=" mx-auto" href="#seen"><i class="fa fa-eye fa-lg"></i></a>
-                        <a className=" mx-auto" href="#share"><i class="fa fa-share fa-lg"></i></a>
+                        <a className=" mx-auto" href="#like"><i className="fa fa-thumbs-up fa-lg"></i></a>
+                        <a className=" mx-auto" href="#unlike"><i className="fa fa-thumbs-down fa-lg"></i></a>
+                        <a className=" mx-auto" href="#comment"><i className="fa fa-comment fa-lg"></i></a>
+                        <a className=" mx-auto" href="#seen"><i className="fa fa-eye fa-lg"></i></a>
+                        <a className=" mx-auto" href="#share"><i className="fa fa-share fa-lg"></i></a>
                     </small>
                 </Card.Footer>
             </Card>
