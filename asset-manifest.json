@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/revidly-intern/static/css/main.90d73a0c.chunk.css",
+    "main.js": "/revidly-intern/static/js/main.9c87fa71.chunk.js",
+    "main.js.map": "/revidly-intern/static/js/main.9c87fa71.chunk.js.map",
+    "runtime-main.js": "/revidly-intern/static/js/runtime-main.5bc0bdf6.js",
+    "runtime-main.js.map": "/revidly-intern/static/js/runtime-main.5bc0bdf6.js.map",
+    "static/css/2.de424728.chunk.css": "/revidly-intern/static/css/2.de424728.chunk.css",
+    "static/js/2.79f08836.chunk.js": "/revidly-intern/static/js/2.79f08836.chunk.js",
+    "static/js/2.79f08836.chunk.js.map": "/revidly-intern/static/js/2.79f08836.chunk.js.map",
+    "index.html": "/revidly-intern/index.html",
+    "precache-manifest.68849bef9683239614934af3258cb0ba.js": "/revidly-intern/precache-manifest.68849bef9683239614934af3258cb0ba.js",
+    "service-worker.js": "/revidly-intern/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/revidly-intern/static/css/2.de424728.chunk.css.map",
+    "static/css/main.90d73a0c.chunk.css.map": "/revidly-intern/static/css/main.90d73a0c.chunk.css.map",
+    "static/js/2.79f08836.chunk.js.LICENSE.txt": "/revidly-intern/static/js/2.79f08836.chunk.js.LICENSE.txt",
+    "static/media/content.jpg": "/revidly-intern/static/media/content.b035f183.jpg",
+    "static/media/logo.png": "/revidly-intern/static/media/logo.418e8073.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bc0bdf6.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.79f08836.chunk.js",
+    "static/css/main.90d73a0c.chunk.css",
+    "static/js/main.9c87fa71.chunk.js"
+  ]
+}
